@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fuyu/qm/src/qm_control/qm_gazebo/build/devel/setup.sh
